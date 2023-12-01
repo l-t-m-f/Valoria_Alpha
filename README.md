@@ -1,4 +1,4 @@
-# Valoria_Alpha
+# Valoria (alpha)
 Valoria is a prototype for an action game designed by Saryat Sarwar Khan, Shivang Semwal &amp; Umang Vinay Panal in the goal of submitting for Github GameOff 2023!
 
 # How to test the game
